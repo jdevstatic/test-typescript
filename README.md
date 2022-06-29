@@ -1,2 +1,0 @@
-# test-typescript
-test typescript
